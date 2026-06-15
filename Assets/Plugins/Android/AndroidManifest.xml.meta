@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88f6eed638091594583fbd8ffadc1032
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/Android/AndroidManifest.xml
+  uploadId: 877472

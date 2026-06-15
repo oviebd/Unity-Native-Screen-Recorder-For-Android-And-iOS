@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d78a8c738c7048649944378e18f90cf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/SunShine Native Screen Recorder/Documentation/version.txt
+  uploadId: 877472

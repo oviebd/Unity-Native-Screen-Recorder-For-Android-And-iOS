@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b86a649ffb1f4544e8849ab0c60eade0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/SunShine Native Screen Recorder/Prefab/Screen Recorder.prefab
+  uploadId: 877472

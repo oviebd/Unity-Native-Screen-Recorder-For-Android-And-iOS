@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fefe29ca0b9a8445af102ed752fcc3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/SunShine Native Screen Recorder/Example/Animation/Cube.controller
+  uploadId: 877472

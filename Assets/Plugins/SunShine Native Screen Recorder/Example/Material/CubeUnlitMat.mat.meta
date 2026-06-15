@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d07a3a6bb74d42f4f988056d19e33284
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/SunShine Native Screen Recorder/Example/Material/CubeUnlitMat.mat
+  uploadId: 877472

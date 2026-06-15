@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7d5a612058e2447e96b806ded4957e9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180403
+  packageName: Native Screen Recorder For Android & iOS
+  packageVersion: 5.0.3
+  assetPath: Assets/Plugins/Android/settingsTemplate.gradle
+  uploadId: 877472
