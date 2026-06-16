@@ -58,7 +58,7 @@ That's it for most use cases. Drop the prefab, call two methods, ship.
 
 ---
 
-## 💎 Upgrade to Pro — $30 One-Time
+## 💎 Upgrade to Pro — $40 One-Time
 
 **[→ Get the Pro Version on Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/native-screen-recorder-for-android-ios-180403)**
 
@@ -80,9 +80,8 @@ Install the free version directly from GitHub as a `.unitypackage`:
 
 | Version | Unity | Release Date | Download |
 |---|---|---|---|
-| **v5.0.3** ⭐ *(Latest)* | 6000.3+ | Mar 9, 2026 | [Download](../../releases/tag/v5.0.3) |
-| v4.1.0 | 2022.3+ | Oct 2024 | [Download](../../releases/tag/v4.1.0) |
-| v3.0.0 | 2021.3+ | Jan 2024 | [Download](../../releases/tag/v3.0.0) |
+| **v6.0.0** ⭐ *(Latest)* | 6000.3+ | June 16, 2026 | [Download](https://github.com/oviebd/Unity-Native-Screen-Recorder-For-Android-And-iOS/blob/main/Packages/Native%20Screen%20Recorder%20For%20Android%20And%20iOS%20-%20Free%20_%206.0.0.unitypackage) |
+
 
 **Installation:**
 1. Download the `.unitypackage` for your Unity version
